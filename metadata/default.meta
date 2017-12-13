@@ -1,0 +1,19 @@
+[]
+access = read : [ * ], write : [ admin ]
+export = system
+version = 7.0.1
+modtime = 1513142888.754391000
+
+[app/ui]
+owner = admin
+version = 7.0.1
+modtime = 1513142906.984020000
+
+[app/launcher]
+owner = admin
+version = 7.0.1
+modtime = 1513142906.990929000
+
+[app/package/check_for_updates]
+version = 7.0.1
+modtime = 1513142906.995413000
